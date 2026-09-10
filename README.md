@@ -1,7 +1,7 @@
 # Semestralni-prace
 
-Téma: jak si vybrat grafickou kartu
+Téma: grafické karty
 
-Obsah: parametry, doporučení, fakta, statistiky
+Obsah: parametry, doporučení, fakta, statistiky, jak si vybrat správnou
 
 Barva černobílá
